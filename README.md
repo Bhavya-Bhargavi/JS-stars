@@ -1,0 +1,2 @@
+# JS-stars
+stars task
